@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.png" alt="firetv-mcp — Your AI remote control for Amazon Fire TV" width="100%" />
+</p>
+
 <h1 align="center">firetv-mcp</h1>
 
 <p align="center">
